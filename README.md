@@ -1,17 +1,4 @@
-# MyDexChain
 
-[![Releases](https://img.shields.io/badge/version-1.0.1-orange)](#)
-[![Jenkins Build](https://img.shields.io/badge/build-passing-brightgreen)](#)
-[![Docker Build](https://img.shields.io/badge/docker%20build-passing-brightgreen)](#)
-[![Docker Image](https://img.shields.io/docker/image-size/mydexchain/mydexchain/latest?color=green)](#)
-[![Docker Pulls](https://img.shields.io/docker/pulls/mydexchain/mydexchain?color=red)](https://hub.docker.com/repository/docker/mydexchain/mydexchain)
-[![LICENSE](https://img.shields.io/badge/license-Apache-lightgray)](https://github.com/mydexchain/mydexchain/blob/master/LICENSE)
-
-MyDexChain is the newest technology for `blockchain` and can be used as a payment gateway.
-
-- [`MyDexChain`](https://mydexchain.io) : The official web page of MyDexChain
-- [`DexLife`](https://mydexchain.io): MyDexChain Masterlife Web Page
-- [`Academies`](https://mydexchain.io/#/dashboards/academy): MyDexChain Trainings and Education Centers
 
 This guide is used by dozens of product teams at MyDexChain. Have a question or comment? [Open an issue!](https://github.com/mydexchain/mydexchain/issues/new)
 
